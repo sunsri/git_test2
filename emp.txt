@@ -1,0 +1,5 @@
+eno:- 100
+ename:- Sunitha 
+Sex:- Female
+Address:- Palace fields
+Province:- 
