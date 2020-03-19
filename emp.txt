@@ -1,5 +1,5 @@
 eno:- IRL-100
 ename:- Sunitha Srinivasa
-Sex:- Female
+Sex:- Gender/Male
 Address:- Palace fields,TUAM
 Province:- COnnaght 
